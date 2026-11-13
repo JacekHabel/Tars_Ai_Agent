@@ -26,7 +26,7 @@ Speech -> Whisper -> text -> Qwen3 8B -> tool selection -> validation -> Python 
 |-------|-------------|--------|
 | 1 | Basic agent: tool registry, validation, text commands | In progress  |
 | 2 | Google Calendar integration | Planned |
-| 3 | ESP32-C3 + BME280 sensor | Planned |
+| 3 | ESP32-C3 + BME280 sensor | In progress |
 | 4 | Qwen3 8B via Ollama | Planned |
 | 5 | Voice input (Whisper) | Planned |
 | 6 | Tests, error handling, documentation | Planned |
